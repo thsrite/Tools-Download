@@ -1,9 +1,3 @@
-
-<div align="center">
-<h1 class="entry-title" itemprop="name">Tools Download</h1>
-</div>
-</header>
-<div class="entry-content" itemprop="articleBody" style="margin-left:50%; transform: translateX(-50%);">
 <h4><strong><span style="color: #000000;">※进程信息查看</span></strong></h4>
 <p><img class="alignnone size-full wp-image-28" src="https://linsan.nos-eastchina1.126.net/24_img/procexp64_00001.jpg" alt="" width="24" height="24" />  <a href="http://linsan.nos-eastchina1.126.net/procexp64.rar">ProcessExplorer</a>  由Sysinternals开发的Windows进程管理器</p>
 <p><img class="alignnone size-full wp-image-26" src="https://linsan.nos-eastchina1.126.net/24_img/ProcessHacker_00001.jpg" alt="" width="24" height="24" />  <a href="http://linsan.nos-eastchina1.126.net/Process%20Hacker%20x64.rar">ProcessHacker</a>   第三方开源强大的进程管理器</p>
@@ -53,5 +47,4 @@ seconds=Math.floor((e_minsold-minsold)*60);
 span_dt_dt.innerHTML="博客已萌萌哒运行了 "+daysold+"天"+hrsold+"小时"+minsold+"分"+seconds+"秒";
 }
 show_date_time();
-</script></p>
-																	</div>
+</script>
