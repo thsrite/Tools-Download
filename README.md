@@ -27,7 +27,7 @@
 <p><img class="alignnone size-full wp-image-36" src="https://linsan.nos-eastchina1.126.net/24_img/windbg_00001.jpg" alt="" width="24" height="24" />  <a href="http://linsan.nos-eastchina1.126.net/WinDbgx64.rar">WinDbg</a>  windows下dump抓取分析工具</p>
 <p><img class="alignnone size-full wp-image-38" src="https://linsan.nos-eastchina1.126.net/24_img/WinHex.jpg" alt="" width="24" height="24" />  <a href="http://linsan.nos-eastchina1.126.net/WinHex_v19.6_SR2.rar">WinHex</a>  一款以16进制编辑器为核心的文件编辑与磁盘编辑软件</p>
 <h4><strong><span style="color: #000000;">※系统补丁</span></strong></h4>
-<p><img class="alignnone size-full wp-image-43" src="https://linsan.nos-eastchina1.126.net/24_img/%E5%BE%AE%E8%BD%AF%E5%B8%B8%E7%94%A8%E8%BF%90%E8%A1%8C%E5%BA%93%E5%90%88%E9%9B%86.jpg" alt="" width="24" height="24" />  <a href="https://linsan.nos-eastchina1.126.net/MSVBCRT.AIO.2019.05.08.X86%20X64.exe">微软常用运行库合集</a>  睿派克论坛出品</p>
+<p><img class="alignnone size-full wp-image-43" src="https://linsan.nos-eastchina1.126.net/24_img/%E5%BE%AE%E8%BD%AF%E5%B8%B8%E7%94%A8%E8%BF%90%E8%A1%8C%E5%BA%93%E5%90%88%E9%9B%86.jpg" alt="" width="24" height="24" />  <a href="https://linsan.nos-eastchina1.126.net/MSVBCRT.AIO.2019.05.08.X86%20X64.exe">微软常用运行库合集</a>  睿派克论坛出品 <a href="https://linsan.nos-eastchina1.126.net/MSVBCRT.AIO_2019.05.08.X86.exe">(32位点我下载)</a></p>
 <p><span id="more-7"></span><br />
 <span id="span_dt_dt"></span><script language="javascript">
 function show_date_time(){
