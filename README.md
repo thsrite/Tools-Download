@@ -5,7 +5,6 @@
 <p><img class="alignnone size-full wp-image-18" src="https://linsan.nos-eastchina1.126.net/24_img/cmd_00001.jpg" alt="" width="24" height="24" />  <a href="http://linsan.nos-eastchina1.126.net/GC%E5%8F%8C%E6%A3%80%E6%B5%8B.rar">GPU CPU 双检测</a>  GPU CPU 检测</p>
 <p><img class="alignnone size-full wp-image-32" src="https://linsan.nos-eastchina1.126.net/24_img/SystemExplorerPortable_00001.jpg" alt="" width="24" height="24" />  <a href="http://linsan.nos-eastchina1.126.net/System%20Explorer%20v7.1.0.rar">SystemExplorer</a>  系统资源管理器高级版</p>
 <p><img class="alignnone size-full wp-image-35" src="https://linsan.nos-eastchina1.126.net/24_img/WIN64AST_00001.jpg" alt="" width="24" height="24" />  <a href="http://linsan.nos-eastchina1.126.net/WIN64AST_119.zip">WIN64AST</a>  专用于<em>64</em>位<em>Win</em>dows的ARK类工具</p>
-<h4><strong><span style="color: #000000;">※系统信息捕获</span></strong></h4>
 <p><img class="alignnone size-full wp-image-29" src="https://linsan.nos-eastchina1.126.net/24_img/Procmon_00001.jpg" alt="" width="24" height="24" />  <a href="https://linsan.nos-eastchina1.126.net/pm_64.zip">ProcessMonitor</a>  由Sysinternals开发的Windows系统监视器</p>
 <p><img class="alignnone size-full wp-image-16" src="https://linsan.nos-eastchina1.126.net/24_img/apimonitor-x64.jpg" alt="" width="24" height="24" />  <a href="http://linsan.nos-eastchina1.126.net/API%20Monitor%20v2.0%20Alpha-r13%20(32%2B64)%20%E6%B1%89%E5%8C%96%E7%89%88.rar">API Monitor</a>  API调用监视器</p>
 <h4><strong><span style="color: #000000;">※网络抓包</span></strong></h4>
